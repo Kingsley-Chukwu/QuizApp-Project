@@ -1,0 +1,17 @@
+.questions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.questions p{
+    flex: 1;
+    margin: 0;
+    font-weight: bold;
+}
+.questions span{
+    flex-shrink: 0;
+    color: rgb(8, 250, 8);
+    font-weight: bold;
+}
+

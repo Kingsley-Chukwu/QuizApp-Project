@@ -1,0 +1,20 @@
+.buttonContainer{
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 20px;
+}
+.buttonContainer button{
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.previousButton{
+    background-color: red;
+}
+.nextButton{
+    background-color: green;
+}

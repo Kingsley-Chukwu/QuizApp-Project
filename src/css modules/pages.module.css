@@ -1,0 +1,8 @@
+.pages button{
+    border: none;
+    background-color: red;
+    color: white;
+}
+.pages button.unanswered{
+    background-color: #fff;
+}

@@ -1,0 +1,20 @@
+.listOptions{
+    padding: 0;
+    margin: 0;
+}
+.options{
+ list-style: none;  
+ color: white; 
+ padding: 0;
+}
+.options li{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    cursor: pointer;
+
+}
+.active{
+    color: rgb(0, 255, 21);
+}
